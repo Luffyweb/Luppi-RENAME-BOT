@@ -1,6 +1,6 @@
 """
 Apache License 2.0
-Copyright (c) 2022 @PYRO_BOTZ
+Copyright (c) 2022 @Luffywebbd
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
@@ -15,9 +15,9 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-Telegram Link : https://t.me/PYRO_BOTZ 
-Repo Link : https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT
-License Link : https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT/blob/main/LICENSE
+Telegram Link : https://t.me/Luffywebbd 
+Repo Link : https://github.com/Luffyweb/Luppi-RENAME-BOT
+License Link : https://github.com/Luffyweb/Luppi-RENAME-BOT/blob/main/LICENSE
 """
 
 import re, os, time
@@ -63,7 +63,7 @@ Tʜɪs Bᴏᴛ Wᴀs Cʀᴇᴀᴛᴇᴅ Bʏ : @Pyro_Botz 💞</b>"""
 ├📕 Lɪʙʀᴀʀy : <a href=https://github.com/pyrogram>Pyʀᴏɢʀᴀᴍ</a>
 ├✏️ Lᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org>Pyᴛʜᴏɴ 3</a>
 ├💾 Dᴀᴛᴀ Bᴀꜱᴇ: <a href=https://cloud.mongodb.com>Mᴏɴɢᴏ DB</a>
-├📊 Bᴜɪʟᴅ Vᴇʀꜱɪᴏɴ: <a href=https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT>Pyʀᴏ Rᴇɴᴀᴍᴇʀ V4.0.0</a></b>     
+├📊 Bᴜɪʟᴅ Vᴇʀꜱɪᴏɴ: <a href=https://github.com/Luffyweb/Luppi-RENAME-BOT>Luppi Rᴇɴᴀᴍᴇʀ V1.0.0</a></b>     
 ╰───────────────⍟ """
 
     HELP_TXT = """
@@ -93,7 +93,7 @@ Exᴀᴍᴩʟᴇ:- /set_caption 📕 Fɪʟᴇ Nᴀᴍᴇ: {filename}
 • ❣️ <a href=https://youtu.be/GfulqsSnTv4>𝗠𝗼𝗧𝗲𝗰𝗵 𝗬𝗧</a>
 • ❣️ <a href=https://t.me/mr_MKN>𝗠𝗿.𝗠𝗞𝗡 𝗧𝗚</a>
 • ❣️ <a href=https://t.me/GitHub_noob>𝗚𝗶𝘁𝗛𝘂𝗯 𝗡𝗢𝗢𝗕</a>
-• ❣️ <a href=https://t.me/about_jeol>𝗝𝗲𝗼𝗹 𝗣𝗮𝘂𝗹</a> """
+• ❣️ <a href=https://t.me/Luffywebbd>Luffy</a> """
 
     PROGRESS_BAR = """<b>\n
 ╭━━━━❰ᴘʀᴏɢʀᴇss ʙᴀʀ❱━➣
